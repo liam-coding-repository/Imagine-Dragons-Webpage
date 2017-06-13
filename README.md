@@ -10,6 +10,13 @@
 
 ## Multiple Pages
 * Make the following files in your friday folder `home.html`, `tour-dates.html`, `merchandise.html`, and `contact.html`
+
+### Home Page
 * Create a nav bar and fancy it up!
-* Add a background image to the home page.
-* 
+* Add a background image
+### Tour Dates Page
+* make a table of tour dates
+### Merchandise Page
+* Include some images of merchandise, along with "Buy now!" buttons
+### Contact Page
+* Add a form that allows fans to sign up for a mailing list
