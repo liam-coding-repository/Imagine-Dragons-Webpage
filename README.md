@@ -52,5 +52,5 @@
 * Add a [slide show](https://www.w3schools.com/howto/howto_js_slideshow.asp) of images to one of the pages.
 * Try to use spotify or soundcloud to embed a song on one of the pages
 
-### CREATE!s
+### CREATE!
 * Use your creativity to make your website even more awesome!
