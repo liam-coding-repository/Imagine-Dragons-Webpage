@@ -26,18 +26,18 @@
 
 ### Tour Dates Page
 * Make a table of tour dates with at least 4 tour dates
-* Add a 'tickets' button to each tour date here is a good example: 
+* Add a 'tickets' button to each tour date. Here is a good example: 
 ![tour-dates example](images/example-tour-dates.png)
-* Add a form that allows users to sign-up for the mailing list (this will not actually work)
 * Add some `hover` effects to your tour dates table
 
 
 ### Merchandise Page
 * Include some images of merchandise, along with "Buy now!" buttons.
+* When the user clicks on the "Buy now!" button, bring them to the actual store for that artist.
 
 #### Extensions
 
-* Choose a couple of [google fonts](https://fonts.google.com/) to use on your pages
+* Choose a couple of [google fonts](https://fonts.google.com/) to use on your pages.
 
 ### Home Page
 * Use `fadeIn()` on the nav bar
