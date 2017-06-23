@@ -1,0 +1,105 @@
+body{
+  margin: 0px;
+}
+
+#textNav {
+  width: 100vw;
+  margin: 0 0 0 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid black;
+}
+
+#divNav {
+  background-color: #0A172C;
+}
+
+li {
+  display: inline-block;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+}
+
+.liNav {
+  float: right;
+  margin-right: 20px;
+}
+
+#bodyImage {
+  width: 100vw;
+}
+
+.parallax {
+  background-image: url("https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/HZMT3TPXLW.jpg");
+  height: 100vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#imgH1 {
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 41vh;
+  font-family: 'Raleway', sans-serif;
+  font-size: 70px;
+}
+
+#bio {
+  padding-top: 0px;
+  width: 100vw;
+/*  background-color: rgba(37, 26, 30, .7);*/
+}
+
+#bioH1 {
+  margin-top: 0px;
+  padding-top: 20px;
+  padding-bottom: 0px;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-size: 35px;
+  color: white;
+}
+
+#bioP {
+  padding-top: 0px;
+  margin-top: 0px;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  margin-right: 150px;
+  margin-left: 150px;
+  /*font-weight: bold;*/
+  font-size: 20px;
+}
+
+#background {
+  background: -webkit-linear-gradient(left, rgb(145, 93, 129), rgb(106, 74, 89), rgb(82, 82, 142), rgb(38, 46, 84), rgb(12, 15, 23)); 
+}
+
+#parallax2 {
+  background-image: url("http://nosalive.com/wp-content/uploads/2016/12/NOS-Alive-Imagine-Dragons-FB-OG.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 60px;
+  width: 100vw;
+  height: 80vh;
+  padding-left: 290px;
+  margin: 0 auto;
+}
+
+#iFrameH1 {
+  text-align: center;
+}
+
+iframe {
+  padding-left: 310px;
+}
