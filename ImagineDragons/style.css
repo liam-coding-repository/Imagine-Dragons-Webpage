@@ -2,20 +2,25 @@ body{
   margin: 0px;
 }
 
+nav {
+  padding-bottom: 10px;
+}
+
 #textNav {
   width: 100vw;
-  margin: 0 0 0 0;
   padding-top: 10px;
-  padding-bottom: 10px;
   border-bottom: 1px solid black;
+}
+
+#home {
+  width: 300px;
+  margin-right: 0px;
+  margin-left: 20px;
+  display: inline-block;
 }
 
 #divNav {
   background-color: #0A172C;
-}
-
-li {
-  display: inline-block;
 }
 
 a {
@@ -23,11 +28,13 @@ a {
   text-decoration: none;
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
+  margin-bottom: 10px;
 }
 
 .liNav {
   float: right;
   margin-right: 30px;
+  display: inline;
 }
 
 #bodyImage {
@@ -254,10 +261,17 @@ button {
   font-family: 'Raleway', sans-serif;
 }
 
-li {
+.comment {
   display: block;
 }
 
 span {
   margin-right: 20px;
 }
+
+
+
+
+
+
+
